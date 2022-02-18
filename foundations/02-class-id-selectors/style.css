@@ -1,0 +1,16 @@
+.first {
+    background-color: rgb(255, 177, 177);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#second{
+    color: blue;
+    font-size :36px;
+}
+.size{
+    font-size:34px;
+}
+#stu{
+    background-color: rgb(114, 255, 101);
+    font-size:24px;
+    font-weight:bold;
+}
